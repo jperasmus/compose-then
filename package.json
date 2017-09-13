@@ -1,0 +1,20 @@
+{
+  "name": "compose-then",
+  "version": "1.0.0",
+  "description": "A better implementation of the \"compose\" FP function that allows for composing both synchronous and asynchronous functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compose",
+    "fp",
+    "functional",
+    "programming",
+    "async",
+    "asynchronous",
+    "promise"
+  ],
+  "author": "JP Erasmus <jperasmus11@gmail.com>",
+  "license": "ISC"
+}
